@@ -8,7 +8,7 @@ This is a mini app to demonstrate how shopping cart app can be built using redux
     npm install
 ```
 
-To install the dependencies the run
+To install the dependencies
 
 ```bash
  npm run serve
